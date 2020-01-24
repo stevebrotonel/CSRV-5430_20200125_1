@@ -1,2 +1,0 @@
-This is a sample content of file1.txt
-This is a sample edit.
